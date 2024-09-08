@@ -1,7 +1,9 @@
+import Card from "@/components/card";
+
 export default function Notifications() {
     return (
         <>
-            <div>Notofication List</div>
+            <Card>Notofication List</Card>
         </>
     );
 }
